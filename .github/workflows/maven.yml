@@ -7,10 +7,6 @@
 
 name: Java CI with Maven
 
-# Add permissions here
-permissions:
-  contents: write
-  dependency-graph: write
 
 on:
   push:
